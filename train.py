@@ -3,4 +3,5 @@ import keras
 import pandas
 import numpy as np
 
-# lol
+# version 2.0
+
